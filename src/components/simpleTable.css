@@ -1,0 +1,21 @@
+
+table {
+    width: 100px; 
+    margin: 10px ; 
+    font-size: 12px;
+    text-align: center;
+    margin-left: -300px;
+    max-width: 50px;
+    align-items: center;
+  }
+  
+  table th,
+  table td {
+    padding: 15px 20px;
+    border: 1px solid #7b7474;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
